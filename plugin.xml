@@ -56,6 +56,7 @@
 		<framework src="Security.framework" />
 		<framework src="Accounts.framework" />
 		<framework src="Social.framework" />
+		<framework src="MediaPlayer.framework" />
 		<framework src="CoreData.framework" />
 		<config-file target="*-Info.plist" parent="Fabric">
 			<dict>
